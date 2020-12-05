@@ -1,0 +1,10 @@
+C:\Users\usa30\source\repos\P2JogoGourmet\JogoGourmet\bin\Debug\JogoGourmet.exe.config
+C:\Users\usa30\source\repos\P2JogoGourmet\JogoGourmet\bin\Debug\JogoGourmet.exe
+C:\Users\usa30\source\repos\P2JogoGourmet\JogoGourmet\bin\Debug\JogoGourmet.pdb
+C:\Users\usa30\source\repos\P2JogoGourmet\JogoGourmet\obj\Debug\JogoGourmet.csprojAssemblyReference.cache
+C:\Users\usa30\source\repos\P2JogoGourmet\JogoGourmet\obj\Debug\JogoGourmet.Form_Prin.resources
+C:\Users\usa30\source\repos\P2JogoGourmet\JogoGourmet\obj\Debug\JogoGourmet.Properties.Resources.resources
+C:\Users\usa30\source\repos\P2JogoGourmet\JogoGourmet\obj\Debug\JogoGourmet.csproj.GenerateResource.cache
+C:\Users\usa30\source\repos\P2JogoGourmet\JogoGourmet\obj\Debug\JogoGourmet.csproj.CoreCompileInputs.cache
+C:\Users\usa30\source\repos\P2JogoGourmet\JogoGourmet\obj\Debug\JogoGourmet.exe
+C:\Users\usa30\source\repos\P2JogoGourmet\JogoGourmet\obj\Debug\JogoGourmet.pdb

@@ -16,7 +16,7 @@ namespace JogoGourmet
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new QstForm());
+            Application.Run(new Form_Prin());
         }
     }
 }
